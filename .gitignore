@@ -1,4 +1,4 @@
 
-appsetting.json
-obj/
-Properties/
+/appsetting.json
+/obj
+/Properties
